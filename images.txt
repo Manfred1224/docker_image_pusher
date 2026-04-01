@@ -4,3 +4,8 @@ redis:6-alpine
 mysql:8.0
 langgenius/dify-web:1.13.3
 langgenius/dify-api:1.13.3
+busybox:latest
+semitechnologies/weaviate:1.27.0
+nginx:latest 
+ubuntu/squid:latest 
+redis:6-alpine 
