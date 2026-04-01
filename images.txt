@@ -1,2 +1,6 @@
-odoo:19.0-20251021
-postgres:18.0
+langgenius/dify-plugin-daemon:0.5.3-local
+langgenius/dify-sandbox:0.2.14
+redis:6-alpine
+mysql:8.0
+langgenius/dify-web:1.13.3
+langgenius/dify-api:1.13.3
